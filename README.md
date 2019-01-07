@@ -1,3 +1,5 @@
+#### original codes from https://github.com/levelfour/SU_Classification and paper referenced: http://proceedings.mlr.press/v80/bao18a/bao18a.pdf
+
 Classification from Pairwise Similarity and Unlabeled Data
 ====
 
