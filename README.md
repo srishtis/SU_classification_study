@@ -1,2 +1,2 @@
-# SU_classification_study
+# SU classification study
 This is an extensive study of SU classification
